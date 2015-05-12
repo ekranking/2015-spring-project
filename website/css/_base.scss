@@ -1,0 +1,6 @@
+/* Base.scss */
+
+body {
+    background-color: #2E9AFE;
+    @include body-font-light;
+}
